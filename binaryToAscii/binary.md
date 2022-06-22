@@ -1,6 +1,6 @@
-Bu çeviri Taylan Can Hardal tarafından 22.06.2022 tarihinde hızlı hızlı yapılmıştır.
+<h4> Bu çeviri Taylan Can Hardal tarafından 22.06.2022 tarihinde hızlı hızlı yapılmıştır.--FreeCopilot </h4>
 
-FreeCopilot 
+
 
 
 " Ceza mı bu" : 01000011 01100101 01111010 01100001 00100000 01101101 11000100 10110001 00100000 01100010 01110101
